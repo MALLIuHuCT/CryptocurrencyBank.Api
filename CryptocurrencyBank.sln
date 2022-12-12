@@ -1,0 +1,73 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CryptocurrencyBank.Domain", "CryptocurrencyBank.Domain", "{6DAD96B2-74DD-4D9E-A729-88B489868F9E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CryptocurrencyBank.Application", "CryptocurrencyBank.Application", "{5A61C73B-007C-48B4-B650-694B685773EB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CryptocurrencyBank.Persistance", "CryptocurrencyBank.Persistance", "{47C35DFD-30EC-4D86-A401-507084B08AEC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CryptocurrencyBank.Domain", "CryptocurrencyBank.Domain\CryptocurrencyBank.Domain.csproj", "{F5ADF940-D834-4BDE-889B-DC81A7BAD33C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{BE3257AF-9E34-431E-8D1B-64A4C9087591}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CryptocurrencyBank.Application", "CryptocurrencyBank.Application\CryptocurrencyBank.Application.csproj", "{6E912ED7-3925-4757-9E3F-0A3008FC54A2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CryptocurrencyBank.Persistance", "CryptocurrencyBank.Persistance\CryptocurrencyBank.Persistance.csproj", "{DDBB3F35-CC58-4573-8808-4B9AEFF653E1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CryptocurrencyBank.Api", "CryptocurrencyBank.Api", "{4DC47E45-0D9D-4A3F-876D-14AC7836BD1D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CryptocurrencyBank.Api", "CryptocurrencyBank.Api\CryptocurrencyBank.Api.csproj", "{3A0FA59F-0E55-4C59-9168-48D832D15375}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CryptocurrencyBank.Domain.Test", "CryptocurrencyBank.Domain.Test\CryptocurrencyBank.Domain.Test.csproj", "{1CBD1ADE-296F-4252-9FBC-EF2851FDC410}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptocurrencyBank.Application.Tests", "CryptocurrencyBank.Application.Tests\CryptocurrencyBank.Application.Tests.csproj", "{2F00D5FF-2C60-437A-8DE5-18E639ED00C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5ADF940-D834-4BDE-889B-DC81A7BAD33C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5ADF940-D834-4BDE-889B-DC81A7BAD33C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5ADF940-D834-4BDE-889B-DC81A7BAD33C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5ADF940-D834-4BDE-889B-DC81A7BAD33C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E912ED7-3925-4757-9E3F-0A3008FC54A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E912ED7-3925-4757-9E3F-0A3008FC54A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E912ED7-3925-4757-9E3F-0A3008FC54A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E912ED7-3925-4757-9E3F-0A3008FC54A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDBB3F35-CC58-4573-8808-4B9AEFF653E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDBB3F35-CC58-4573-8808-4B9AEFF653E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDBB3F35-CC58-4573-8808-4B9AEFF653E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDBB3F35-CC58-4573-8808-4B9AEFF653E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A0FA59F-0E55-4C59-9168-48D832D15375}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A0FA59F-0E55-4C59-9168-48D832D15375}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A0FA59F-0E55-4C59-9168-48D832D15375}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A0FA59F-0E55-4C59-9168-48D832D15375}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CBD1ADE-296F-4252-9FBC-EF2851FDC410}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CBD1ADE-296F-4252-9FBC-EF2851FDC410}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CBD1ADE-296F-4252-9FBC-EF2851FDC410}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CBD1ADE-296F-4252-9FBC-EF2851FDC410}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F00D5FF-2C60-437A-8DE5-18E639ED00C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F00D5FF-2C60-437A-8DE5-18E639ED00C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F00D5FF-2C60-437A-8DE5-18E639ED00C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F00D5FF-2C60-437A-8DE5-18E639ED00C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F5ADF940-D834-4BDE-889B-DC81A7BAD33C} = {6DAD96B2-74DD-4D9E-A729-88B489868F9E}
+		{6E912ED7-3925-4757-9E3F-0A3008FC54A2} = {5A61C73B-007C-48B4-B650-694B685773EB}
+		{DDBB3F35-CC58-4573-8808-4B9AEFF653E1} = {47C35DFD-30EC-4D86-A401-507084B08AEC}
+		{3A0FA59F-0E55-4C59-9168-48D832D15375} = {4DC47E45-0D9D-4A3F-876D-14AC7836BD1D}
+		{1CBD1ADE-296F-4252-9FBC-EF2851FDC410} = {BE3257AF-9E34-431E-8D1B-64A4C9087591}
+		{2F00D5FF-2C60-437A-8DE5-18E639ED00C3} = {BE3257AF-9E34-431E-8D1B-64A4C9087591}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F276AA5-20B0-4A45-A9A2-5E602B594C3C}
+	EndGlobalSection
+EndGlobal

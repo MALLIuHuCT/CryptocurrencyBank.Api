@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "DUH0GcmumH6hfYHN1zs3aOPpWluscDwjUh0ZVGxPEiY=",
+  "Source": "CryptocurrencyBank.Api",
+  "BasePath": "_content/CryptocurrencyBank.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

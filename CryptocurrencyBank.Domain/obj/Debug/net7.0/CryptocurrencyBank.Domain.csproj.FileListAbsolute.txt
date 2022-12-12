@@ -1,0 +1,12 @@
+C:\Users\79856\Desktop\Высер\CryptocurrencyBank.Api\CryptocurrencyBank\CryptocurrencyBank.Domain\bin\Debug\net7.0\CryptocurrencyBank.Domain.deps.json
+C:\Users\79856\Desktop\Высер\CryptocurrencyBank.Api\CryptocurrencyBank\CryptocurrencyBank.Domain\bin\Debug\net7.0\CryptocurrencyBank.Domain.dll
+C:\Users\79856\Desktop\Высер\CryptocurrencyBank.Api\CryptocurrencyBank\CryptocurrencyBank.Domain\bin\Debug\net7.0\CryptocurrencyBank.Domain.pdb
+C:\Users\79856\Desktop\Высер\CryptocurrencyBank.Api\CryptocurrencyBank\CryptocurrencyBank.Domain\obj\Debug\net7.0\CryptocurrencyBank.Domain.csproj.AssemblyReference.cache
+C:\Users\79856\Desktop\Высер\CryptocurrencyBank.Api\CryptocurrencyBank\CryptocurrencyBank.Domain\obj\Debug\net7.0\CryptocurrencyBank.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79856\Desktop\Высер\CryptocurrencyBank.Api\CryptocurrencyBank\CryptocurrencyBank.Domain\obj\Debug\net7.0\CryptocurrencyBank.Domain.AssemblyInfoInputs.cache
+C:\Users\79856\Desktop\Высер\CryptocurrencyBank.Api\CryptocurrencyBank\CryptocurrencyBank.Domain\obj\Debug\net7.0\CryptocurrencyBank.Domain.AssemblyInfo.cs
+C:\Users\79856\Desktop\Высер\CryptocurrencyBank.Api\CryptocurrencyBank\CryptocurrencyBank.Domain\obj\Debug\net7.0\CryptocurrencyBank.Domain.csproj.CoreCompileInputs.cache
+C:\Users\79856\Desktop\Высер\CryptocurrencyBank.Api\CryptocurrencyBank\CryptocurrencyBank.Domain\obj\Debug\net7.0\CryptocurrencyBank.Domain.dll
+C:\Users\79856\Desktop\Высер\CryptocurrencyBank.Api\CryptocurrencyBank\CryptocurrencyBank.Domain\obj\Debug\net7.0\refint\CryptocurrencyBank.Domain.dll
+C:\Users\79856\Desktop\Высер\CryptocurrencyBank.Api\CryptocurrencyBank\CryptocurrencyBank.Domain\obj\Debug\net7.0\CryptocurrencyBank.Domain.pdb
+C:\Users\79856\Desktop\Высер\CryptocurrencyBank.Api\CryptocurrencyBank\CryptocurrencyBank.Domain\obj\Debug\net7.0\ref\CryptocurrencyBank.Domain.dll

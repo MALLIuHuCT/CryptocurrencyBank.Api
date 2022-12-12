@@ -1,0 +1,17 @@
+C:\Users\79856\Desktop\Высер\CryptocurrencyBank.Api\CryptocurrencyBank\CryptocurrencyBank.Persistance\bin\Debug\net7.0\CryptocurrencyBank.Persistance.deps.json
+C:\Users\79856\Desktop\Высер\CryptocurrencyBank.Api\CryptocurrencyBank\CryptocurrencyBank.Persistance\bin\Debug\net7.0\CryptocurrencyBank.Persistance.dll
+C:\Users\79856\Desktop\Высер\CryptocurrencyBank.Api\CryptocurrencyBank\CryptocurrencyBank.Persistance\bin\Debug\net7.0\CryptocurrencyBank.Persistance.pdb
+C:\Users\79856\Desktop\Высер\CryptocurrencyBank.Api\CryptocurrencyBank\CryptocurrencyBank.Persistance\bin\Debug\net7.0\CryptocurrencyBank.Domain.dll
+C:\Users\79856\Desktop\Высер\CryptocurrencyBank.Api\CryptocurrencyBank\CryptocurrencyBank.Persistance\bin\Debug\net7.0\CryptocurrencyBank.Domain.pdb
+C:\Users\79856\Desktop\Высер\CryptocurrencyBank.Api\CryptocurrencyBank\CryptocurrencyBank.Persistance\obj\Debug\net7.0\CryptocurrencyBank.Persistance.csproj.AssemblyReference.cache
+C:\Users\79856\Desktop\Высер\CryptocurrencyBank.Api\CryptocurrencyBank\CryptocurrencyBank.Persistance\obj\Debug\net7.0\CryptocurrencyBank.Persistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79856\Desktop\Высер\CryptocurrencyBank.Api\CryptocurrencyBank\CryptocurrencyBank.Persistance\obj\Debug\net7.0\CryptocurrencyBank.Persistance.AssemblyInfoInputs.cache
+C:\Users\79856\Desktop\Высер\CryptocurrencyBank.Api\CryptocurrencyBank\CryptocurrencyBank.Persistance\obj\Debug\net7.0\CryptocurrencyBank.Persistance.AssemblyInfo.cs
+C:\Users\79856\Desktop\Высер\CryptocurrencyBank.Api\CryptocurrencyBank\CryptocurrencyBank.Persistance\obj\Debug\net7.0\CryptocurrencyBank.Persistance.csproj.CoreCompileInputs.cache
+C:\Users\79856\Desktop\Высер\CryptocurrencyBank.Api\CryptocurrencyBank\CryptocurrencyBank.Persistance\obj\Debug\net7.0\CryptocurrencyBank.Persistance.csproj.CopyComplete
+C:\Users\79856\Desktop\Высер\CryptocurrencyBank.Api\CryptocurrencyBank\CryptocurrencyBank.Persistance\obj\Debug\net7.0\CryptocurrencyBank.Persistance.dll
+C:\Users\79856\Desktop\Высер\CryptocurrencyBank.Api\CryptocurrencyBank\CryptocurrencyBank.Persistance\obj\Debug\net7.0\refint\CryptocurrencyBank.Persistance.dll
+C:\Users\79856\Desktop\Высер\CryptocurrencyBank.Api\CryptocurrencyBank\CryptocurrencyBank.Persistance\obj\Debug\net7.0\CryptocurrencyBank.Persistance.pdb
+C:\Users\79856\Desktop\Высер\CryptocurrencyBank.Api\CryptocurrencyBank\CryptocurrencyBank.Persistance\obj\Debug\net7.0\ref\CryptocurrencyBank.Persistance.dll
+C:\Users\79856\Desktop\Высер\CryptocurrencyBank.Api\CryptocurrencyBank\CryptocurrencyBank.Persistance\bin\Debug\net7.0\CryptocurrencyBank.Application.dll
+C:\Users\79856\Desktop\Высер\CryptocurrencyBank.Api\CryptocurrencyBank\CryptocurrencyBank.Persistance\bin\Debug\net7.0\CryptocurrencyBank.Application.pdb

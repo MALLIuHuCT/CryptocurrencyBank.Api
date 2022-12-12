@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CryptocurrencyBank.Api.props" />
+</Project>

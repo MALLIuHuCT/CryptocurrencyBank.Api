@@ -1,0 +1,15 @@
+C:\Users\79856\Desktop\Высер\CryptocurrencyBank.Api\CryptocurrencyBank\CryptocurrencyBank.Application\bin\Debug\net7.0\CryptocurrencyBank.Application.deps.json
+C:\Users\79856\Desktop\Высер\CryptocurrencyBank.Api\CryptocurrencyBank\CryptocurrencyBank.Application\bin\Debug\net7.0\CryptocurrencyBank.Application.dll
+C:\Users\79856\Desktop\Высер\CryptocurrencyBank.Api\CryptocurrencyBank\CryptocurrencyBank.Application\bin\Debug\net7.0\CryptocurrencyBank.Application.pdb
+C:\Users\79856\Desktop\Высер\CryptocurrencyBank.Api\CryptocurrencyBank\CryptocurrencyBank.Application\bin\Debug\net7.0\CryptocurrencyBank.Domain.dll
+C:\Users\79856\Desktop\Высер\CryptocurrencyBank.Api\CryptocurrencyBank\CryptocurrencyBank.Application\bin\Debug\net7.0\CryptocurrencyBank.Domain.pdb
+C:\Users\79856\Desktop\Высер\CryptocurrencyBank.Api\CryptocurrencyBank\CryptocurrencyBank.Application\obj\Debug\net7.0\CryptocurrencyBank.Application.csproj.AssemblyReference.cache
+C:\Users\79856\Desktop\Высер\CryptocurrencyBank.Api\CryptocurrencyBank\CryptocurrencyBank.Application\obj\Debug\net7.0\CryptocurrencyBank.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79856\Desktop\Высер\CryptocurrencyBank.Api\CryptocurrencyBank\CryptocurrencyBank.Application\obj\Debug\net7.0\CryptocurrencyBank.Application.AssemblyInfoInputs.cache
+C:\Users\79856\Desktop\Высер\CryptocurrencyBank.Api\CryptocurrencyBank\CryptocurrencyBank.Application\obj\Debug\net7.0\CryptocurrencyBank.Application.AssemblyInfo.cs
+C:\Users\79856\Desktop\Высер\CryptocurrencyBank.Api\CryptocurrencyBank\CryptocurrencyBank.Application\obj\Debug\net7.0\CryptocurrencyBank.Application.csproj.CoreCompileInputs.cache
+C:\Users\79856\Desktop\Высер\CryptocurrencyBank.Api\CryptocurrencyBank\CryptocurrencyBank.Application\obj\Debug\net7.0\CryptocurrencyBank.Application.csproj.CopyComplete
+C:\Users\79856\Desktop\Высер\CryptocurrencyBank.Api\CryptocurrencyBank\CryptocurrencyBank.Application\obj\Debug\net7.0\CryptocurrencyBank.Application.dll
+C:\Users\79856\Desktop\Высер\CryptocurrencyBank.Api\CryptocurrencyBank\CryptocurrencyBank.Application\obj\Debug\net7.0\refint\CryptocurrencyBank.Application.dll
+C:\Users\79856\Desktop\Высер\CryptocurrencyBank.Api\CryptocurrencyBank\CryptocurrencyBank.Application\obj\Debug\net7.0\CryptocurrencyBank.Application.pdb
+C:\Users\79856\Desktop\Высер\CryptocurrencyBank.Api\CryptocurrencyBank\CryptocurrencyBank.Application\obj\Debug\net7.0\ref\CryptocurrencyBank.Application.dll

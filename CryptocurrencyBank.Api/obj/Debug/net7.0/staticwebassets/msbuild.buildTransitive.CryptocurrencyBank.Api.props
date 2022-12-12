@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\CryptocurrencyBank.Api.props" />
+</Project>
